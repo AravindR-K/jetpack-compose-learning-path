@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buisnessApp</string>
+    <string name="name">Aravind</string>
+    <string name="occupation">Android Developer Entraordinaire</string>
+    <string name="phoneNumber">+11 (123) 444 555 666</string>
+    <string name="share">"@"androiddev</string>
+    <string name="email">jen.doe@android.com</string>
+</resources>
