@@ -12,7 +12,7 @@ A simple business card layout built using **Column**, **Row**, and **Box** compo
 It demonstrates text styling, layout alignment, background colors, and icon usage.
 
 **Preview:**
-<img src="Buisness_Card/Buisness_Card_Layout.jpg" width="300" />
+<img src="Buisness_App/Buisness_App_Layout.jpg" width="300" />
 
 **Key concepts learned:**
 - Column and Row alignment  
@@ -26,7 +26,7 @@ It demonstrates text styling, layout alignment, background colors, and icon usag
 An interactive app that displays a dice image which changes when the user presses the **Roll** button.
 
 **Preview:**
-<img src="Dice_App/Dice_Card_Layout.jpg" width="300" />
+<img src="Dice_App/Dice_App_Layout.jpg" width="300" />
 
 **Key concepts learned:**
 - `Button` and `Image` composables  
